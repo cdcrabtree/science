@@ -6,5 +6,5 @@ This is a community-edited syllabus on how to think about and do science. The re
 - Deutsch, Karl, "[The limits of common sense.](https://www.tandfonline.com/doi/abs/10.1080/00332747.1959.11023164)" Psychiatry 
 Interpersonal and biological processes. 2: 105-112.
 - Hamming, Richard. 1986. "[You and your research.](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)"
-- Medawar, Peter. 1981. _[Advice to a young scientist.](https://www.amazon.com/Advice-Young-Scientist-Alfred-Foundation/dp/0465000924). Basic Books.
+- Medawar, Peter. 1981. _[Advice to a young scientist.](https://www.amazon.com/Advice-Young-Scientist-Alfred-Foundation/dp/0465000924)_. Basic Books.
 - Schwartz, Martin A. 2008. "[The importance of stupidity in scientific research.](http://jcs.biologists.org/content/121/11/1771)" _Journal of Cell Science_ 121: 1771.
